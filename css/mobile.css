@@ -3,7 +3,12 @@ body {
     margin: 0;
     padding: 0;
    }
-   .container {
+.container {
     width: 100%;
     min-width: 320px;
    }
+
+
+.mainNav {
+ background-color: #8d965b;
+}
